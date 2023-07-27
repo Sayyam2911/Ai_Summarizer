@@ -1,6 +1,4 @@
 import React from "react";
-import {Logo} from "../assets/index.js";
-
 const Hero = () => {
     return (
         <header className="w-full flex justify-center items-center flex-col">
